@@ -21,7 +21,7 @@ export const profile = {
     "Outside of web development, I'm into applied ML — I built a system to detect and mitigate hateful content in Bangla memes. I'm currently going deeper into AI-driven web development, and looking for an entry-level engineering role where I can keep building software that holds up under real users.",
   ],
 
-  resumeFile: "/resume.pdf",
+  resumeFile: "/Resume.pdf",
 
   socials: {
     github: "https://github.com/Samirsrz/",
