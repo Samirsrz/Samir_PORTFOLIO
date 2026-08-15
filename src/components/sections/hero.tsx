@@ -7,7 +7,7 @@ import { GithubIcon, LinkedinIcon } from "@/components/icons";
 import { Button } from "@/components/ui/button";
 import NetworkCanvas from "@/components/three/network-canvas";
 import { profile } from "@/data/profile";
-import image from "../ui/Samir_image.jpg"
+import image from "../ui/Samir_image.png"
 const EASE = [0.22, 1, 0.36, 1] as const;
 
 const fadeUp = {
