@@ -22,8 +22,50 @@ export type Project = {
 
 export const projects: Project[] = [
   {
-    slug: "rentnest",
-    name: "RentNest",
+  slug: "fixflow",
+  name: "FixFlow",
+  tagline: "Community maintenance management platform",
+  description: [
+    "A full-stack community maintenance platform that connects residents, property managers, and maintenance workers. It streamlines the entire maintenance process, from reporting issues with photos and assigning workers to tracking repairs and confirming completed jobs.",
+    "Residents can report issues, track progress, chat with assigned workers, and pay monthly maintenance invoices. Managers can prioritize requests, assign workers, and generate invoices, while workers manage assigned jobs and submit progress updates. Admins oversee users, communities, categories, and platform activity."
+  ],
+  roles: ["Resident", "Manager", "Worker", "Admin"],
+  features: [
+    "Maintenance issue reporting with photo uploads",
+    "Worker assignment and priority management",
+    "Issue lifecycle and repair tracking",
+    "Resident-worker chat",
+    "Invoice generation and Stripe payments",
+    "Role-based access control",
+    "Email OTP registration and Google OAuth",
+    "Admin user and community management"
+  ],
+  tech: [
+    "Next.js 16",
+    "TypeScript",
+    "Tailwind CSS",
+    "shadcn/ui",
+    "TanStack Query",
+    "Node.js",
+    "Express.js",
+    "PostgreSQL",
+    "Prisma ORM",
+    "Redis",
+    "Stripe",
+    "Cloudinary",
+    "JWT Auth",
+    "Google OAuth"
+  ],
+  links: {
+    live: "https://fix-flow-frontend-a7-l2.vercel.app/",
+    client: "https://github.com/Samirsrz/fix-flow-frontend-A7-L2",
+    server: "https://github.com/Samirsrz/fix-flow_A6_L2"
+  },
+  featured: true,
+},
+  {
+    slug: "renthub",
+    name: "RentHub",
     tagline: "Property rental marketplace",
     description: [
       "A full-stack rental marketplace with a Node.js/Express backend, Prisma data models, and a Next.js App Router frontend — built around three roles that all need different access to the same listings.",

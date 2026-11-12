@@ -8,11 +8,11 @@ export function Projects() {
     <section id="work" className="scroll-mt-24 border-t border-border px-6 py-24 sm:py-28">
       <div className="mx-auto max-w-6xl">
         <Reveal>
-          <SectionHeading
-            eyebrow="Selected Work"
-            title="Three systems, three sets of roles"
-            description="Each of these started from the same question: who actually uses this, and what should each of them be allowed to do?"
-          />
+         <SectionHeading
+  eyebrow="Selected Work"
+  title="Projects I've Worked On"
+  description="From full-stack web applications to AI and machine learning research, each project represents an opportunity to explore new ideas, solve practical problems, and build software that delivers real value."
+/>
         </Reveal>
 
         <div className="mt-14 space-y-6">

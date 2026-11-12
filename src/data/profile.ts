@@ -9,17 +9,17 @@ export const profile = {
   phone: "+880 1805-999267",
 
   // Hero
-  heroEyebrow: "Full-Stack Web Developer — ML Enthusiast",
-  heroHeadline: "SAMIR UDDIN AHAMED",
-  heroSub:
-    "Building systems for every role in the room. Tenants and landlords. Donors and volunteers. Job seekers and recruiters. I build the dashboards, APIs, and access control that let each of them do their job — without stepping on each other.",
+ heroEyebrow: "Full-Stack Developer | AI & ML Enthusiast",
+heroHeadline: "SAMIR UDDIN AHAMED",
+heroSub:
+  "I build web applications that solve practical problems and make everyday tasks easier. I enjoy turning ideas into functional products, solving technical challenges, and creating solutions that are reliable, maintainable, and easy to use.",
 
-  // About
-  about: [
-    "I'm a Computer Science & Engineering student at North South University who'd rather ship a working product than talk about one. Most of what I build ends up looking the same underneath: a Node/Express or Next.js backend, a Postgres or Mongo database modeled with real constraints, and a frontend that has to serve more than one kind of user at once.",
-    "That pattern shows up across everything I've shipped — a rental marketplace where tenants, landlords, and admins all need different views of the same data; a blood-donation platform coordinating donors, volunteers, and admins; a job portal recommending roles with a lightweight ML layer on top. I care about the parts that are easy to skip: auth that's actually role-aware, APIs that don't leak what they shouldn't, and interfaces that don't make people think.",
-    "Outside of web development, I'm into applied ML — I built a system to detect and mitigate hateful content in Bangla memes. I'm currently going deeper into AI-driven web development, and looking for an entry-level engineering role where I can keep building software that holds up under real users.",
-  ],
+// About
+about: [
+  "I'm a Computer Science and Engineering graduate from North South University with a strong interest in software development and emerging technologies. I enjoy learning how things work, exploring different approaches to solving problems, and turning ideas into working applications.",
+  "My experience spans frontend and backend development, from building responsive user interfaces to developing APIs, managing databases, and implementing application functionality. Through academic and personal projects, I've worked on different types of applications and gained practical experience in understanding requirements, solving problems, and building complete software solutions.",
+  "I'm also interested in AI and machine learning, particularly how they can be used to make software more useful and efficient. I'm continuously improving my skills and exploring new technologies. My goal is to grow as a software engineer, contribute to meaningful products, and work with a team where I can learn, take responsibility, and make a real impact.",
+],
 
   resumeFile: "/Resume.pdf",
 

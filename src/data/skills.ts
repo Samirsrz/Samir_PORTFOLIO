@@ -18,6 +18,7 @@ export const skillGroups = [
       "Firebase",
       "RESTful APIs",
       "Data Modeling",
+      "Redis"
     ],
   },
   {
@@ -26,6 +27,6 @@ export const skillGroups = [
   },
   {
     category: "Tools & Practice",
-    items: ["Git / GitHub", "Communication", "Teamwork", "Problem-Solving"],
+    items: ["Git / GitHub", "Communication", "Teamwork", "Problem-Solving", "Docker"],
   },
 ];

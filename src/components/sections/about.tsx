@@ -12,7 +12,7 @@ export function About() {
             <p className="mt-6 font-mono text-xs leading-relaxed text-ink-faint">
               CSE @ North South University
               <br />
-              Advanced Web Development — in progress
+              AI Driven Web Development Bootcamp 
               <br />
               Based in {profile.location}
             </p>

@@ -22,6 +22,6 @@ export const certifications = [
   {
     name: "Level 2 — AI-Driven Web Development",
     issuer: "Advanced Web Development",
-    status: "In Progress",
+    status: "Completed",
   },
 ];
